@@ -44,3 +44,7 @@ body {
       color: bisque;
     }
   }
+  
+  .content-wrapper {
+    margin: 40px;
+}
