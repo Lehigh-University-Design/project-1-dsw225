@@ -23,6 +23,7 @@
         line-height: 100%;
         color: var(--color-text);
     }
+    z-index: 2;
 }
 
 .navbar-name {
@@ -39,7 +40,6 @@
 .navbar a {
     text-decoration: none;
     font-size: larger;
-    font-weight: bold;
     margin-left: 20px;
     color: var(--color-link);
 }
